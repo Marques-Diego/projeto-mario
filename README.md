@@ -36,5 +36,4 @@ code .
 
 - Como primeiro projeto, pude perceber que a programação é algo incrível onde podemos aprender as linguagens e entender como funciona um site, por mais simples que seja, a importância de cada detalhe que pode passar despercebido ou muito notado por alguém que tenha o conhecimento, essa experiência me fez acreditar que posso seguir em frente nesta área e posso aprender diversas coisas no ramo, o que possibilite meu crescimento e sucesso como programador.
 
-- Com este projeto, iniciei um curso na área onde tenho a grade que possibilite meu aprendizado com:
- -Html5 / Css3 / JavaScript / Git e Github / Clean Code / React / Context API / Redux e Typescript.
+- Com este projeto, iniciei um curso na área onde tenho a grade que possibilite meu aprendizado com Html5 / Css3 / JavaScript / Git e Github / Clean Code / React / Context API / Redux e Typescript.
