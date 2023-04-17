@@ -6,7 +6,7 @@ Um projeto feito com acompanhamento de desenvolvedores sêniors 🎯
 
 - Minha primeira experiência com programação, onde pude absorver alguns conceitos sobre o assunto, criado em uma semana junto com programadores mais experientes ajudando e explicando os conceitos básicos da linguagem usada.
 
-[<img src="./projeto-mario.gif" alt="Gif da tela inicial do projeto Super Mario Bros - O Filme">]
+<img src="./projeto-mario.gif" alt="Gif da tela inicial do projeto Super Mario Bros - O Filme">
 
 ## Tecnologias utilizadas
 
